@@ -1,16 +1,13 @@
-## Hi there 👋
+# Felipe Santos
 
-<!--
-**felipeaugusantos/felipeaugusantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas e Qualidade | Automação de processos e testes
 
-Here are some ideas to get you started:
+Há 9 anos transformo rotinas manuais de teste, build e distribuição em processos automatizados na Citel Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · Jenkins · SQL · PowerShell · Power BI
+
+## Em destaque
+
+- AUTPAS: atualização de cópias de versão em uma única tela, feita para o time de teste
+- Zé Registra: pesquisa e gestão de marcas do INPI
+- EZRA ERP: sistema SaaS multiempresa de gestão comercial
